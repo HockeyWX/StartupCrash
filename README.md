@@ -1,6 +1,6 @@
 # StartupCrash
 
-The procedures are:
+The steps are:
 
 Subclass android.app.Application and add CrashManager.initialize in its onCreate, ideally as the second line after the call to super.
 
